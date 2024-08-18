@@ -1,2 +1,2 @@
-# Free-earthquake-warning-app
-Free earthquake warning application for Android
+# Free-fine-earthquake-warning-app
+Free & fine earthquake warning application for Android
